@@ -1,10 +1,10 @@
 ### Seja bem vindo!! 😄
 
-<P> Sou aprendiz de programadora, especialista em Finanças, Custos e Controladoria, casada com Rafael Borel (better husband the world) e mãe de cats and dogs.
+<P> Sou aprendiz de programadora, especialista em Finanças, Custos e Controladoria, casada com Rafael Borel (better husband the world) e mãe de cats and dogs.<p>
   
   
-Estou aqui para mostrar o que posso fazer e a vontade de fazer.
-Acredito que não tem nada que eu não possa aprender, basta qeu querer!<p>
+<P>Estou aqui para mostrar o que posso fazer e a grande vontade que eu tenho de aprender! (I love challenges) 
+Acredito que não tem nada que eu não possa aprender, basta eu querer!<p>
   
 Sendo assim, estou aqui para ser uma grande programadora, cientista de dados e tudo que me fizer ser feliz.   
 
