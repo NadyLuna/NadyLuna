@@ -4,7 +4,7 @@ Sou aprendiz de programadora, especialista em Finanças, Custos e Controladoria
 Estou aqui para mostrar o que posso fazer e a vontade de fazer.
 Acredito que não tem nada que eu não possa aprender, basta qeu querer.
 ____
-<>``` diff + Sou uma pessoa que gosto de compartilhar conhecimento;
+<>```Sou uma pessoa que gosto de compartilhar conhecimento;
 Aprendo, desaprendo e reaprendo```<>.
 
 **Amo meu Deus Jeová e toda sua maravilhosa criação**
