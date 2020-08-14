@@ -1,13 +1,19 @@
 ### Seja bem vindo!! 😄
 
-Sou aprendiz de programadora, especialista em Finanças, Custos e Controladoria
+<P> Sou aprendiz de programadora, especialista em Finanças, Custos e Controladoria, casada com Rafael Borel (better husband the world) e mãe de cats and dogs.
+  
+  
 Estou aqui para mostrar o que posso fazer e a vontade de fazer.
-Acredito que não tem nada que eu não possa aprender, basta qeu querer.
+Acredito que não tem nada que eu não possa aprender, basta qeu querer!<p>
+  
+Sendo assim, estou aqui para ser uma grande programadora, cientista de dados e tudo que me fizer ser feliz.   
+
+
 ____
 <>```Sou uma pessoa que gosto de compartilhar conhecimento;
 Aprendo, desaprendo e reaprendo```<>.
 
-**Amo meu Deus Jeová e toda sua maravilhosa criação**
+ :raised_hands: **Amo meu Deus Jeová e toda sua maravilhosa criação.**
 
 
 
