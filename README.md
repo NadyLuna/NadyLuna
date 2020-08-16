@@ -13,7 +13,7 @@ ____
 <>```Sou uma pessoa que gosto de compartilhar conhecimento;
 Aprendo, desaprendo e reaprendo```<>.
 
- :raised_hands: **Amo meu Deus Jeová e toda sua maravilhosa criação.**
+ :raised_hands: **Jehovah God is eternal life.**
 
 
 
