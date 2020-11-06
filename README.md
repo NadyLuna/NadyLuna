@@ -16,9 +16,8 @@ Sou especialista em Finanças, Custos e Controladoria, Estudade e entusiasta de 
 habilidades através de cursos, projetos e muita vontade de aprender!<p>
 
  📫 Como me encontrar:  
-       - [x] e-mail -> nadyedja@gmail.com  
-       - [x] telegram -> https://t.me/nady_luna
-
+- [x] e-mail -> nadyedja@gmail.com  
+- [x] telegram -> https://t.me/nady_luna
 ____
 <> ```Sou uma pessoa que gosto de compartilhar conhecimento;
 🌱 Aprendo, desaprendo e reaprendo``` <>.
