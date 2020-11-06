@@ -12,10 +12,12 @@
 
 Sou especialista em Finanças, Custos e Controladoria, Estudade e entusiasta de Tecnologia. Casada com Rafael Borel (better husband the world) e mãe de cats and dogs.
   
-<P>Desenvolvedora web com foco em backend iniciante, sempre em busca de aprimorar conhecimentos e
+<P>Desenvolvedora web iniciante com foco em backend , sempre em busca de aprimorar conhecimentos e
 habilidades através de cursos, projetos e muita vontade de aprender!<p>
 
-- 📫 Como me encontrar -> nadyedja@gmail.com
+- [x] 📫 Como me encontrar:  
+       e-mail -> nadyedja@gmail.com  
+       telegram -> https://t.me/nady_luna
 
 ____
 <> ```Sou uma pessoa que gosto de compartilhar conhecimento;
