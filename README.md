@@ -1,21 +1,31 @@
-### Seja bem vindo!! 😄
+<p>
+    <img src="./github/gato.gif" width="150px" align="left"> 
+    <br></br>
 
-<P> Sou aprendiz de programadora, especialista em Finanças, Custos e Controladoria, casada com Rafael Borel (better husband the world) e mãe de cats and dogs.<p>
-  
-  
-<P>Estou aqui para mostrar o que posso fazer e a grande vontade que eu tenho de aprender! (I love challenges) 
-Acredito que não tem nada que eu não possa aprender, basta eu querer!<p>
-  
-Sendo assim, estou aqui para ser uma grande programadora, cientista de dados e tudo que me fizer ser feliz.   
+# Seja bem vindo, sou Nadyédja Luna   
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nadyluna/)](https://www.linkedin.com/in/nadyluna/)
+
+<br>
+
+### Sobre Mim 
+
+Sou especialista em Finanças, Custos e Controladoria, Estudade e entusiasta de Tecnologia. Casada com Rafael Borel (better husband the world) e mãe de cats and dogs.
+  
+<P>Desenvolvedora web com foco em backend iniciante, sempre em busca de aprimorar conhecimentos e
+habilidades através de cursos, projetos e muita vontade de aprender!<p>
+
+- 📫 Como me encontrar -> nadyedja@gmail.com
 
 ____
-<>```Sou uma pessoa que gosto de compartilhar conhecimento;
-Aprendo, desaprendo e reaprendo```<>.
-
+<> ```Sou uma pessoa que gosto de compartilhar conhecimento;
+🌱 Aprendo, desaprendo e reaprendo``` <>.
+___
  :raised_hands: **Jehovah God is eternal life.**
-
-
+___
+<p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/?username=NadyLuna&show_icons=true&title_color=94fcff&icon_color=79ff97&text_color=fe9fe6&bg_color=151515" />
+ </p></p>
 
 <!--
 **NadyLuna/NadyLuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
