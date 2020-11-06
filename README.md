@@ -21,7 +21,7 @@ habilidades através de cursos, projetos e muita vontade de aprender!<p>
 ____
 <> ```Sou uma pessoa que gosto de compartilhar conhecimento;
 🌱 Aprendo, desaprendo e reaprendo``` <>.
-___
+
  :raised_hands: **Jehovah God is eternal life.**
 ___
 <p align="center">
