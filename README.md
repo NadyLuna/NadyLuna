@@ -1,5 +1,5 @@
 <p>
-    <img src="./github/gato.gif" width="150px" align="left"> 
+    <img src="./github/gato.gif" width="120px" align="left"> 
     <br></br>
 
 # Seja bem vindo, sou Nadyédja Luna   
@@ -15,9 +15,9 @@ Sou especialista em Finanças, Custos e Controladoria, Estudade e entusiasta de 
 <P>Desenvolvedora web iniciante com foco em backend , sempre em busca de aprimorar conhecimentos e
 habilidades através de cursos, projetos e muita vontade de aprender!<p>
 
-- [x] 📫 Como me encontrar:  
-       e-mail -> nadyedja@gmail.com  
-       telegram -> https://t.me/nady_luna
+ 📫 Como me encontrar:  
+       - [x] e-mail -> nadyedja@gmail.com  
+       - [x] telegram -> https://t.me/nady_luna
 
 ____
 <> ```Sou uma pessoa que gosto de compartilhar conhecimento;
