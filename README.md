@@ -10,7 +10,7 @@
 
 ### Sobre Mim 
 
-Sou especialista em Finanças, Custos e Controladoria, Estudade e entusiasta de Tecnologia. Casada com Rafael Borel (better husband the world) e mãe de cats and dogs. Estudante de Back-End da [{reprograma}](http://reprograma.com.br "{reprograma}") em parceria com o M.I.N.As do Porto Digital de Recife, focado em desenvolvimento em Node.js.
+Sou especialista em Finanças, Custos e Controladoria, Estudade e entusiasta de Tecnologia. Casada com Rafael Borel (better husband the world) e mãe de cats and dogs. Estudante de Back-End da [{reprograma}](http://reprograma.com.br "{reprograma}") em parceria com o [M.I.N.As](https://www.instagram.com/portodigitalminas/) do [Porto Digital] (https://www.portodigital.org/home) de Recife, focado em desenvolvimento em Node.js.
   
 <P>Desenvolvedora web iniciante com foco em Back-End , sempre em busca de aprimorar conhecimentos e
 habilidades através de cursos, projetos e muita vontade de aprender!<p>
