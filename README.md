@@ -1,44 +1,39 @@
 <p>
-    <img src="./github/gato.gif" width="120px" align="left"> 
-    <br></br>
+    <img src="./github/gato.gif" width="110px" align="left"> 
+    <br> </br>
+</p>
 
-# Seja bem vindo, sou Nadyédja Luna   
+# Seja bem vindo, sou Nady Luna 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nadyluna/)](https://www.linkedin.com/in/nadyluna/)
+## About Me 
 
-<br>
-
-### Sobre Mim 
-
-Sou especialista em Finanças, Custos e Controladoria, Estudade e entusiasta de Tecnologia. Casada com Rafael Borel (better husband the world) e mãe de cats and dogs.
+Sou especialista em Finanças, Custos e Controladoria, Estudade e entusiasta de Tecnologia.  Casada com [Rafael Borel](https://www.linkedin.com/in/rafaelborel/) _(better husband the world_ e mãe de cats and dogs.
   
-<P>Desenvolvedora web iniciante com foco em backend , sempre em busca de aprimorar conhecimentos e
-habilidades através de cursos, projetos e muita vontade de aprender!<p>
+Desenvolvedora web com foco em backend, sempre em busca de aprimorar conhecimentos e
+habilidades através de cursos, projetos e muita vontade de aprender!
 
- 📫 Como me encontrar:  
-- [x] e-mail -> nadyedja@gmail.com  
-- [x] telegram -> https://t.me/nady_luna
-____
-<> ```Sou uma pessoa que gosto de compartilhar conhecimento;
-🌱 Aprendo, desaprendo e reaprendo``` <>.
-
- :raised_hands: **Jehovah God is eternal life.**
+---
+## Faith
+ :raised_hands: **Jehovah God is eternal life.**</p>
 ___
+## Follow me
+
+[![Linkedin Nadyédja Luna](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nadyluna/)](https://www.linkedin.com/in/nadyluna/)
+
+[![GitHub Nady Luna](https://img.shields.io/github/followers/NadyLuna?label=follow&style=social)](https://github.com/NadyLuna)
+
+[![Twitter: Nady Luna](https://img.shields.io/twitter/follow/NadyKelayne?style=social)](https://twitter.com/NadyKelayne)
+## GitHub Stats and Most Used Languages
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/?username=NadyLuna&show_icons=true&title_color=94fcff&icon_color=79ff97&text_color=fe9fe6&bg_color=151515" />
+ <img align="center"src="https://github-readme-stats.vercel.app/api/?username=NadyLuna&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5" />
  </p></p>
+<p align="center">
+ <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadyLuna&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/NadyLuna/github-readme-stats"/>
 
-<!--
-**NadyLuna/NadyLuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## Tech skilss
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
+![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-444444.svg?logo=mongoDB&logoColor=green)   
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
