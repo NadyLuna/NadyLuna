@@ -31,7 +31,7 @@ ___
  <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadyLuna&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/NadyLuna/github-readme-stats"/>
 
 ---
-## Tech skilss
+## Tech skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
 ![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-444444.svg?logo=mongoDB&logoColor=green)   
