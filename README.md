@@ -1,5 +1,5 @@
 <p>
-    <img src="./github/gato.gif" width="110px" align="left"> 
+    <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="130px" align="left"> 
     <br> </br>
 </p>
 
