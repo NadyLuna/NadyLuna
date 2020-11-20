@@ -7,7 +7,7 @@
 
 ## About Me 
 
-Sou especialista em Finanças, Custos e Controladoria, Estudade e entusiasta de Tecnologia.  Casada com [Rafael Borel](https://www.linkedin.com/in/rafaelborel/) _(better husband the world_ e mãe de cats and dogs.
+Sou especialista em Finanças, Custos e Controladoria, Estudante e entusiasta de Tecnologia.  Casada com [Rafael Borel](https://www.linkedin.com/in/rafaelborel/) _(better husband the world_ e mãe de cats and dogs.
   
 Desenvolvedora web com foco em backend, sempre em busca de aprimorar conhecimentos e
 habilidades através de cursos, projetos e muita vontade de aprender!
@@ -18,7 +18,7 @@ habilidades através de cursos, projetos e muita vontade de aprender!
 ___
 ## Follow me
 
-[![Linkedin Nadyédja Luna](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nadyluna/)](https://www.linkedin.com/in/nadyluna/)
+[![Linkedin Nadyédja Luna](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nadyluna-dev/)](https://www.linkedin.com/in/nadyluna-dev/)
 
 [![GitHub Nady Luna](https://img.shields.io/github/followers/NadyLuna?label=follow&style=social)](https://github.com/NadyLuna)
 
