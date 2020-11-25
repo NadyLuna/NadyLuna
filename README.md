@@ -3,7 +3,7 @@
     <br> </br>
 </p>
 
-# Seja bem vindo, sou Nady Luna 
+# Seja bem vindo(a), sou Nady Luna! 
 
 ## About Me 
 
