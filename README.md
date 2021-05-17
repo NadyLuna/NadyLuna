@@ -9,7 +9,7 @@
 
 Sou especialista em Finanças, Custos e Controladoria, Estudante e entusiasta de Tecnologia.  Casada com [Rafael Borel](https://www.linkedin.com/in/rafaelborel/) _(better husband the world_ e mãe de cats and dogs.
   
-Desenvolvedora web com foco em backend, sempre em busca de aprimorar conhecimentos e
+Aprendiz de Desenvolvimento web com foco em backend, sempre em busca de aprimorar conhecimentos e
 habilidades através de cursos, projetos e muita vontade de aprender!
 
 ---
