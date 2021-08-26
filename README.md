@@ -1,5 +1,5 @@
 <p>
-    <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="130px" align="left"> 
+    <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="100px" align="left"> 
     <br> </br>
 </p>
 
@@ -12,27 +12,30 @@ I'm an expert in Finance, Web Developer in training, Financial Market enthusiast
 I am very interested in learning more about the Data area.
 
 Always looking to improve knowledge and skills through courses, projects and eager to learn!
+
 ---
-___
+### GitHub Stats and Most Used Languages
+
+<div>
+ <img src="https://github-readme-stats.vercel.app/api/?username=NadyLuna&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5" />
+ 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadyLuna&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/NadyLuna/github-readme-stats"/>
+ </div>   
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="Nady-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Nady-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Nady-bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+  <img align="center" alt="Nady-Nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Nady-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Nady-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Nady-Postgre" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Nady-Mongodb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"> 
+   
+  </div>
+  
 ## Follow me
 
-[![Linkedin Nadyédja Luna](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nadyluna-dev/)](https://www.linkedin.com/in/nadyluna-dev/)
-
-[![GitHub Nady Luna](https://img.shields.io/github/followers/NadyLuna?label=follow&style=social)](https://github.com/NadyLuna)
-
+[![Linkedin Nadyédja Luna](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nadyluna/)](https://www.linkedin.com/in/nadyluna/)
+[![Telegram: nady_luna](https://img.shields.io/badge/-Telegram-white?style=flat-square&logo=Telegram&logoColor=blue&link=https://t.me/nady_luna)](https:https://t.me/nady_luna)
 [![Twitter: Nady Luna](https://img.shields.io/twitter/follow/NadyKelayne?style=social)](https://twitter.com/NadyKelayne)
-## GitHub Stats and Most Used Languages
-<p align="center">
- <img align="center"src="https://github-readme-stats.vercel.app/api/?username=NadyLuna&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5" />
- </p></p>
-<p align="center">
- <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadyLuna&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/NadyLuna/github-readme-stats"/>
-
----
-## Tech skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![Nodejs](https://img.shields.io/badge/-NodeJs-339933.svg?logo=node.js&logoColor=white)   
-![Reactjs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)    
-![MongoDB](https://img.shields.io/badge/-MongoDB-444444.svg?logo=mongoDB&logoColor=green)   
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
