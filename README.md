@@ -34,7 +34,8 @@ ___
 ---
 ## Tech skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)  
+![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)
+![Reactjs](https://img.shields.io/badge/ReactJs-339933.svg?logo=react.js&logoColor=white)    
 ![MongoDB](https://img.shields.io/badge/MongoDB-444444.svg?logo=mongoDB&logoColor=green)   
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
