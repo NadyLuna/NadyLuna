@@ -3,19 +3,16 @@
     <br> </br>
 </p>
 
-# Seja bem vindo(a), sou Nady Luna! 
+# Welcome, I'm Nady Luna! 
 
 ## About Me 
 
-Sou especialista em Finanças, Desenvolvedora Web em formação, entusiasta do Mercado Financeiro, curiosa, adoro aprender novas ferramentas e tudo que possa otimizar o trabalho. Casada com [Rafael Borel](https://www.linkedin.com/in/rafaelborel/) _(better husband the world_ e mãe de cats and dogs.
+I'm an expert in Finance, Web Developer in training, Financial Market enthusiast, curious, I love learning new tools and everything that can optimize my work.
   
-Com Projetos para aprender mais sobre a área de Dados.
+I am very interested in learning more about the Data area.
 
-Sempre em busca de aprimorar conhecimentos e habilidades através de cursos, projetos e muita vontade de aprender!
-
+Always looking to improve knowledge and skills through courses, projects and eager to learn!
 ---
-## Faith
- :raised_hands: **Jehovah God is eternal life.**</p>
 ___
 ## Follow me
 
@@ -34,8 +31,8 @@ ___
 ---
 ## Tech skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)
-![Reactjs](https://img.shields.io/badge/ReactJs-339933.svg?logo=react.js&logoColor=white)    
+![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)   
+![Reactjs](https://img.shields.io/badge/ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)    
 ![MongoDB](https://img.shields.io/badge/MongoDB-444444.svg?logo=mongoDB&logoColor=green)   
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
