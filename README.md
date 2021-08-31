@@ -9,7 +9,7 @@
 
 I'm an expert in Finance, Web Developer in training, Financial Market enthusiast, curious, I love learning new tools and everything that can optimize my work.
   
-I am very interested in learning more about the Data area.
+I am very interested in learning more about the Data Science.
 
 Always looking to improve knowledge and skills through courses, projects and eager to learn!
 
