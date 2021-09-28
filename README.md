@@ -31,6 +31,7 @@ Always looking to improve knowledge and skills through courses, projects and eag
   <img align="center" alt="Nady-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nady-Postgre" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Nady-Mongodb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"> 
+  <img align="center" alt="Nady-Phyton" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/phyton/phyton-original.svg">  
    
   </div>
   
