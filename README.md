@@ -9,9 +9,7 @@
 
 I'm  Web Developer in training, Financial Market enthusiast, curious, I love learning new tools and everything that can optimize my work. I Love 🐈, and 🐕  <b/> in fact, all animals 🐾  <b/>! I love traveling and I love nature! <b/> 🌴
 
-I am very interested in learning more about the Data Science.
-
-Always looking to improve knowledge and skills through courses, projects and eager to learn!
+Supporter of the DevOps Culture with an interest in going deeper into more Technology topics: Infrastructure, Data and whatever else is out there. Always looking to improve knowledge and skills through courses, projects and eager to learn!
 
 ---
 ### GitHub Stats and Most Used Languages
