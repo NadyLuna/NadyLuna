@@ -1,5 +1,5 @@
 <p>
-    <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="100px" align="left"> 
+    <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="20%" alt="Gatos codando loucamente" align="left"/>
     <br> </br>
 </p>
 
@@ -7,8 +7,8 @@
 
 ## About Me 
 
-I'm an expert in Finance, Web Developer in training, Financial Market enthusiast, curious, I love learning new tools and everything that can optimize my work.
-  
+I'm  Web Developer in training, Financial Market enthusiast, curious, I love learning new tools and everything that can optimize my work. I Love 🐈, and 🐕 in fact, all animals 🐾 ! I love traveling and I love nature! 🌴
+
 I am very interested in learning more about the Data Science.
 
 Always looking to improve knowledge and skills through courses, projects and eager to learn!
