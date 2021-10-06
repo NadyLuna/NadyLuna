@@ -7,7 +7,7 @@
 
 ## About Me 
 
-I'm  Web Developer in training, Financial Market enthusiast, curious, I love learning new tools and everything that can optimize my work. I Love 🐈, and 🐕 in fact, all animals 🐾 ! I love traveling and I love nature! 🌴
+I'm  Web Developer in training, Financial Market enthusiast, curious, I love learning new tools and everything that can optimize my work. I Love 🐈, and 🐕  in fact, all animals 🐾  ! I love traveling and I love nature!  🌴
 
 I am very interested in learning more about the Data Science.
 
