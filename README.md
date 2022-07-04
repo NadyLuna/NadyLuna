@@ -26,7 +26,7 @@ I'm  Data Analyst in training, Financial Market enthusiast, curious, I love lear
     <img align="center" alt="Postgre" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Mongodb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"> 
   <img align="center" alt="Phyton" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">  
-    <img align="center" alt="Phyton" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original-wordmark.svg">
+   <img align="center" alt="Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-plain.svg">
    
   </div>
   
