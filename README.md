@@ -7,7 +7,7 @@
 
 ## About Me 
 
-I'm a data analyst and junior back end developer, Financial Market enthusiast, curious, I love learning new tools and everything that can optimize my work. I Love 🐈, and 🐕  <b/> in fact, all animals 🐾  <b/>! I love traveling and I love nature! <b/> 🌴
+I'm a future Data Engineer, I'm a back end development apprentice, Financial Market enthusiast, curious, I love learning new tools and everything that can optimize my work. I Love 🐈, and 🐕  <b/> in fact, all animals 🐾  <b/>! I love traveling and I love nature! <b/> 🌴
 
 ---
 ### GitHub Stats and Most Used Languages
