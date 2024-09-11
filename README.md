@@ -1,5 +1,5 @@
 <p>
-    <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" alt="Gatos codando loucamente"  align="left" width="17%" border= "thin solid" padding="5px" margin= "0px 10px 10px 0/>      
+    <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" alt="Gatos codando loucamente"  align="left" width="23%"  padding="5px" margin= 0px 10px 10px 0 >      
        
 </p> 
 
