@@ -1,9 +1,7 @@
 <p>
     <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="20%" alt="Gatos codando loucamente" align="left"/>
     <br> </br>
-</p>
-
-# Welcome, I'm Nady Luna! 
+</p> # Welcome, I'm Nady Luna! 
 
 ## About Me 
 
