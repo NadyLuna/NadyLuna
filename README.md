@@ -1,9 +1,11 @@
 <p>
-    <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="20%" alt="Gatos codando loucamente" align="left"/>
-    <br> </br>
-</p> # Welcome, I'm Nady Luna! 
+    <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" alt="Gatos codando loucamente"  align="left" width="17%" border= "thin solid" padding="5px" margin= "0px 10px 10px 0/>      
+       
+</p> 
 
-## About Me 
+## Welcome, I'm Nady Luna!
+
+#### About me:
 
 I'm a backend development apprentice, Financial Market enthusiast, curious, I love learning new tools and everything that can optimize my work. 
 
