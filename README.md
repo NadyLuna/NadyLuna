@@ -40,7 +40,7 @@
 ---
 
 ### 🤝 Vamos nos conectar?
-- 💼 [LinkedIn](https://www.linkedin.com/in/nadyluna)
+- 💼 [![Linkedin Nadyédja Luna](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nadyluna/)](https://www.linkedin.com/in/nadyluna/)
 - 📧 nadyedja@gmail.com
 
 ---
@@ -67,9 +67,3 @@
   <img align="center" alt="Mongodb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"> 
   <img align="center" alt="Phyton" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">  
 </div>
-  
-## Follow me
-
-[![Linkedin Nadyédja Luna](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nadyluna/)](https://www.linkedin.com/in/nadyluna/)
-[![Telegram: nady_luna](https://img.shields.io/badge/-Telegram-white?style=flat-square&logo=Telegram&logoColor=blue&link=https://t.me/nady_luna)](https:https://t.me/nady_luna)
-[![Twitter: Nady Luna](https://img.shields.io/twitter/follow/NadyKelayne?style=social)](https://twitter.com/NadyKelayne)
